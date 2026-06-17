@@ -1,0 +1,5 @@
+split,pdbid,affinity,ligand,smiles,warning,protocol_source,has_smiles,has_global_file,has_pocket_file,overlap_with_training,overlap_with_validation,overlap_with_core_test,overlap_source
+csar_hiq_overlap_controlled,1w6o,3.34,LAT,,No ligand file found,MBP csar_2016: C:\smiles\zhenshi\学习\MBP-main\MBP-main\MBP\data\csar_2016,False,False,False,False,False,False,
+csar_hiq_overlap_controlled,2add,2.46,SUC,,No ligand file found,MBP csar_2016: C:\smiles\zhenshi\学习\MBP-main\MBP-main\MBP\data\csar_2016,False,False,False,False,False,False,
+csar_hiq_overlap_controlled,2q3c,5.3,DFSI,,No ligand file found,MBP csar_2016: C:\smiles\zhenshi\学习\MBP-main\MBP-main\MBP\data\csar_2016,False,False,False,False,False,False,
+csar_hiq_overlap_controlled,2qmj,4.21,ACR,,No ligand file found,MBP csar_2016: C:\smiles\zhenshi\学习\MBP-main\MBP-main\MBP\data\csar_2016,False,False,False,False,False,False,

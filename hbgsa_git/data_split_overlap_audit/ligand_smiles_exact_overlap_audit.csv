@@ -1,0 +1,11 @@
+left_split,right_split,left_unique_smiles_count,right_unique_smiles_count,exact_overlap_count
+training,validation,9896,889,262
+training,core_test,9896,290,70
+training,csar_hiq_135_protocol,9896,119,1
+training,csar_hiq_overlap_controlled,9896,45,1
+validation,core_test,889,290,20
+validation,csar_hiq_135_protocol,889,119,0
+validation,csar_hiq_overlap_controlled,889,45,0
+core_test,csar_hiq_135_protocol,290,119,0
+core_test,csar_hiq_overlap_controlled,290,45,0
+csar_hiq_135_protocol,csar_hiq_overlap_controlled,119,45,45

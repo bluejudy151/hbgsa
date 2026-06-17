@@ -1,0 +1,11 @@
+left_split,right_split,left_unique_protein_feature_hash_count,right_unique_protein_feature_hash_count,exact_overlap_count
+training,validation,8338,820,310
+training,core_test,8338,229,101
+training,csar_hiq_135_protocol,8338,121,1
+training,csar_hiq_overlap_controlled,8338,47,1
+validation,core_test,820,229,41
+validation,csar_hiq_135_protocol,820,121,0
+validation,csar_hiq_overlap_controlled,820,47,0
+core_test,csar_hiq_135_protocol,229,121,0
+core_test,csar_hiq_overlap_controlled,229,47,0
+csar_hiq_135_protocol,csar_hiq_overlap_controlled,121,47,47

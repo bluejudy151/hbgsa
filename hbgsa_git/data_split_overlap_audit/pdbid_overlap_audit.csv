@@ -1,0 +1,11 @@
+left_split,right_split,left_count,right_count,overlap_count,overlap_ids
+training,validation,11906,1000,0,
+training,core_test,11906,290,0,
+training,csar_hiq_135_protocol,11906,135,53,1ax1;1ax2;1b6m;1bcj;1bky;1gi9;1gww;1gx0;1gz9;1gzc;1ha2;1iup;1lhw;1ow4;1q4w;1rdi;1rdn;1s50;1s9t;1swk;1tr7;1tt1;1urg;1vot;1w2g;1x9d;1y1m;1yxd;1z3t;2a3c;2b1q;2c1q;2cem;2cji;2d2v;2f5t;2fai;2ff1;2fv5;2hd6;2hdq;2hdr;2hj4;2hr6;2i0d;2j4k;2jbj;2jj3;2nnq;2p98;2r6w;2z4b;3d2r
+training,csar_hiq_overlap_controlled,11906,51,0,
+validation,core_test,1000,290,0,
+validation,csar_hiq_135_protocol,1000,135,0,
+validation,csar_hiq_overlap_controlled,1000,51,0,
+core_test,csar_hiq_135_protocol,290,135,31,1eby;1gpk;1h22;1h23;1nc1;1nc3;1p1n;1ps3;1qkt;1r5y;1s38;1syi;1uto;1vso;1yc1;1z95;2brb;2fvd;2hb1;2iwx;2j78;2p4y;2pog;2qbq;2qbr;2qnq;2vkm;2vw5;3bgz;3e92;3f3d
+core_test,csar_hiq_overlap_controlled,290,51,0,
+csar_hiq_135_protocol,csar_hiq_overlap_controlled,135,51,51,1q0y;1q6e;1q6g;1s7y;1txf;1ukb;1uld;1uzv;1w6o;1xl5;1xw6;1y93;1zhx;2add;2arb;2are;2b3f;2bbf;2cjp;2dm5;2idz;2ihk;2ilz;2jdy;2jff;2jgb;2otz;2ou0;2p3t;2pjo;2pzv;2q3c;2q6m;2qeh;2qmj;2qvu;2r3d;2rca;2rde;2v7t;2v7u;2v7v;2v8q;2v8y;2vhw;2z8f;2zlz;3c7i;3ene;3f4j;4ubp
